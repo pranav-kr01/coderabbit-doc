@@ -13,7 +13,7 @@ Welcome to the official docs for [**CodeRabbit**](https://coderabbit.ai), the co
 [![Discord](https://img.shields.io/discord/1134356397673414807?color=7289DA&label=Discord&logo=discord&logoColor=green)](http://discord.gg/coderabbit)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/coderabbitai/coderabbit-docs/pulls)
 [![Node.js CI](https://github.com/coderabbitai/coderabbit-docs/actions/workflows/node.js.yaml/badge.svg)](https://github.com/coderabbitai/coderabbit-docs/actions/workflows/node.js.yaml)
-![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/coderabbitai/coderabbit-docs?labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit%20Reviews)
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/pranav-kr01/coderabbit-docs?utm_source=oss&utm_medium=github&utm_campaign=pranav-kr01%2Fcoderabbit-docs&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
 
 ## About CodeRabbit
 
